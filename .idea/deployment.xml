@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zzh@10.134.99.23:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" showDifferentInSync="false" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="zzh@10.134.99.23:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zzh/Documents/MTGCoverage" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/data/ResNet50" />
+            <excludedPath local="true" path="$PROJECT_DIR$/data/VGG19" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
