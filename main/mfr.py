@@ -168,4 +168,4 @@ if __name__ == '__main__':
     # np.save('../data/VGG19/VGG19ImageNet.npy', mfr)
     # mfr = merge_mfr('../data/ResNet50/')
     # np.save('../data/ResNet50/ResNet50ImageNet.npy', mfr)
-    getmfr('LeNet1', 'fashionmnist')
+    getmfr('LeNet1', 'cifar10')
